@@ -57,8 +57,8 @@ This is a simple OCR-based tool for recognizing Japanese handwritten or printed 
 
 ---
 
-## 📎 Notes
+> 📎 Notes
 
-- For best results, use clear, high-resolution images.
-- EasyOCR may not handle cursive or stylized writing well — in such cases, a custom-trained classifier is recommended.
+> - For best results, use clear, high-resolution images.
+> - EasyOCR may not handle cursive or stylized writing well — in such cases, a custom-trained classifier is recommended.
 
